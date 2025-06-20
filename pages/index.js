@@ -15,7 +15,7 @@ export default function Home() {
           marginTop: '1rem',
           cursor: 'pointer'
         }}>
-          Ver análisis de “Talking”
+          Ver análisis de “talking”
         </button>
       </Link>
     </main>
