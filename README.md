@@ -1,3 +1,3 @@
 # Entre versos y barras
 
-Proyecto de análisis lírico verso por verso.
+Exploramos el significado detrás de cada verso. Letras, emociones y cultura.
