@@ -6,7 +6,7 @@ export default function Home() {
       <h1>Entre versos y barras</h1>
       <p>Letras que dicen más de lo que suenan. Análisis profundo de cada línea, verso y emoción.</p>
 
-      <Link href="/Talking">
+      <Link href="/talking">
         <button style={{
           backgroundColor: '#000',
           color: '#fff',
@@ -15,7 +15,7 @@ export default function Home() {
           marginTop: '1rem',
           cursor: 'pointer'
         }}>
-          Ver análisis de “talking”
+          Ver análisis de “Talking”
         </button>
       </Link>
     </main>
