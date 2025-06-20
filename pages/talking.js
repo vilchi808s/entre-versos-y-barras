@@ -1,4 +1,4 @@
-import React from "react";
+import VersoExplicado from '../components/VersoExplicado';
 
 export default function Talking() {
   return (
@@ -6,23 +6,10 @@ export default function Talking() {
       <h1 className="text-3xl font-bold">Talking – Ritter</h1>
       <p className="text-sm text-gray-500">Análisis verso por verso</p>
 
-      {/* Aquí van los versos */}
       <VersoExplicado 
-        verso="Estoy entre tenerte y entretenerte, duele verlo"
-        explicacion="Juego de palabras entre 'tenerte' (amor) y 'entretenerte' (rap / arte). Doble sentido emocional y artístico." 
+        verso="Estoy entre tenerte y entretenerte, duele verlo" 
+        explicacion="Juego de palabras entre 'tenerte' (amor) y 'entretenerte' (rap / arte). Muestra un conflicto entre el amor y la carrera artística." 
       />
-    </div>
-  );
-}
-
-function VersoExplicado({ verso, explicacion }) {
-  const [mostrar, setMostrar] = React.useState(false);
-  return (
-    <div onClick={() => setMostrar(!mostrar)} className="cursor-pointer">
-      <p className="text-black font-medium">{verso}</p>
-      {mostrar && (
-        <p className="text-gray-500 text-sm mt-1">{explicacion}</p>
-      )}
     </div>
   );
 }
