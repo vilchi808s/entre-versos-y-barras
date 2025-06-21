@@ -6,7 +6,7 @@ export default function Talking() {
       <h1 className="text-3xl font-bold">Talking – Ritter</h1>
       <p className="text-sm text-gray-500">Análisis verso por verso</p>
 
-      <VersoExplicado verso="The slow mod, most wanted" explicacion="Se describe como una versión lenta del 'modo' más deseado. ‘Mod’ puede aludir a una estética (como la subcultura británica), o a una actitud personalizada ('modo' propio de ser). Al juntar 'slow mod' con 'most wanted', juega con la contradicción entre ir lento pero ser muy buscado. Barra de apertura que refleja estilo y confianza, con aire introspectivo." />
+      <VersoExplicado verso="The slow mod, most wanted" explicacion="Se describe como una versión lenta del 'modo' más deseado. 'Mod' puede aludir a una estética (como la subcultura británica), o a una actitud personalizada ('modo' propio de ser). Al juntar 'slow mod' con 'most wanted', juega con la contradicción entre ir lento pero ser muy buscado. Barra de apertura que refleja estilo y confianza, con aire introspectivo." />
 
       <VersoExplicado verso="quiero que recorra baires y pegue bailes en mi depto" explicacion="Una línea cargada de deseo cotidiano y personal: sueña con que esa persona recorra Buenos Aires ('baires') y termine bailando en su departamento. Habla de intimidad emocional, de compartir lo urbano con lo doméstico. La aliteración en 'baires', 'baile', 'depto' crea musicalidad sin esfuerzo." />
 
@@ -18,11 +18,11 @@ export default function Talking() {
 
       <VersoExplicado verso="jaggermeister, blacklabel otro level en tracks" explicacion="La mención de dos bebidas fuertes y costosas (Jägermeister y Johnnie Walker Black Label) no es solo por ostentar. Habla de rituales nocturnos, del sabor amargo que acompaña el proceso creativo. 'Otro level en tracks' une ese estilo con la música: su nivel está por encima, y hasta el trago lo representa." />
 
-      <VersoExplicado verso="a lo Hacksaw saco Chainsaws" explicacion="‘Hacksaw’ hace referencia a la película 'Hacksaw Ridge', sobre un soldado que salva vidas sin disparar un solo tiro. Pero Ritter da el giro: él saca 'chainsaws', sierras eléctricas, sugiriendo agresividad artística. Está listo para cortar con todo, para destruir estructuras. Es una declaración de guerra poética." />
+      <VersoExplicado verso="a lo Hacksaw saco Chainsaws" explicacion="'Hacksaw' hace referencia a la película 'Hacksaw Ridge', sobre un soldado que salva vidas sin disparar un solo tiro. Pero Ritter da el giro: él saca 'chainsaws', sierras eléctricas, sugiriendo agresividad artística. Está listo para cortar con todo, para destruir estructuras. Es una declaración de guerra poética." />
 
-      <VersoExplicado verso="’ey suck’ a lo asap rocky" explicacion="Imita el flow y dicción de A$AP Rocky, conocido por su estilo arrastrado y melódico. 'Ey suck' suena como una crítica disimulada ('you suck'), dicho con gracia. Juega con la forma y el fondo: una burla escondida en un homenaje estilístico. Sutil, pero afilado." />
+      <VersoExplicado verso='"ey suck" a lo asap rocky' explicacion="Imita el flow y dicción de A$AP Rocky, conocido por su estilo arrastrado y melódico. 'Ey suck' suena como una crítica disimulada ('you suck'), dicho con gracia. Juega con la forma y el fondo: una burla escondida en un homenaje estilístico. Sutil, pero afilado." />
 
-      <VersoExplicado verso="les falta las guirnaldas del shopping y ya tienen hecho el videoclip y el outfit" explicacion="Una joya de crítica. Dice que muchos tienen ya el look de videoclip con solo comprarse adornos del shopping. No tienen contenido, pero lucen como estrellas. Ridiculiza el consumismo superficial en el rap actual. Y la musicalidad de ‘guirnaldas del shopping’ alarga la ironía con ritmo." />
+      <VersoExplicado verso="les falta las guirnaldas del shopping y ya tienen hecho el videoclip y el outfit" explicacion="Una joya de crítica. Dice que muchos tienen ya el look de videoclip con solo comprarse adornos del shopping. No tienen contenido, pero lucen como estrellas. Ridiculiza el consumismo superficial en el rap actual. Y la musicalidad de 'guirnaldas del shopping' alarga la ironía con ritmo." />
 
       <VersoExplicado verso="caminando por libertadores craneando la épica" explicacion="Camina por una calle real o simbólica ('Libertadores') mientras trama ideas épicas. Puede ser literal (Buenos Aires), futbolístico (el torneo), o ideológico (los Libertadores de América). En todos los casos, se sitúa a sí mismo como alguien que planea grandeza desde la calle." />
 
