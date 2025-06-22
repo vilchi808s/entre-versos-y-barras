@@ -1,4 +1,4 @@
-import VersoExplicado from '@/components/VersoExplicado';
+import VersoExplicado from '../components/VersoExplicado';
 
 export default function Talking() {
   return (
